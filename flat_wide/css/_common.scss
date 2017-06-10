@@ -94,6 +94,7 @@ textarea {
  */
 .gm-scrollbar-container .gm-scroll-view {
   position: absolute;
+  z-index: 1;
 }
 
 /* Expand thumbs on hoverover */
